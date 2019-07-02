@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\less1\bin\Debug\netcoreapp2.2\Task1_Ankete.deps.json
+C:\Users\PC\source\repos\less1\bin\Debug\netcoreapp2.2\Task1_Ankete.runtimeconfig.json
+C:\Users\PC\source\repos\less1\bin\Debug\netcoreapp2.2\Task1_Ankete.runtimeconfig.dev.json
+C:\Users\PC\source\repos\less1\bin\Debug\netcoreapp2.2\Task1_Ankete.dll
+C:\Users\PC\source\repos\less1\bin\Debug\netcoreapp2.2\Task1_Ankete.pdb
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\Task1_Ankete.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\Task1_Ankete.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\Task1_Ankete.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\Task1_Ankete.AssemblyInfo.cs
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\Task1_Ankete.dll
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\Task1_Ankete.pdb

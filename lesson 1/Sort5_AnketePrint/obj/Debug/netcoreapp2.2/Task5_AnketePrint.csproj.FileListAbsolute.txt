@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Sort5_AnketePrint\bin\Debug\netcoreapp2.2\Task5_AnketePrint.deps.json
+C:\Users\PC\source\repos\Sort5_AnketePrint\bin\Debug\netcoreapp2.2\Task5_AnketePrint.runtimeconfig.json
+C:\Users\PC\source\repos\Sort5_AnketePrint\bin\Debug\netcoreapp2.2\Task5_AnketePrint.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Sort5_AnketePrint\bin\Debug\netcoreapp2.2\Task5_AnketePrint.dll
+C:\Users\PC\source\repos\Sort5_AnketePrint\bin\Debug\netcoreapp2.2\Task5_AnketePrint.pdb
+C:\Users\PC\source\repos\Sort5_AnketePrint\obj\Debug\netcoreapp2.2\Task5_AnketePrint.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Sort5_AnketePrint\obj\Debug\netcoreapp2.2\Task5_AnketePrint.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Sort5_AnketePrint\obj\Debug\netcoreapp2.2\Task5_AnketePrint.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Sort5_AnketePrint\obj\Debug\netcoreapp2.2\Task5_AnketePrint.AssemblyInfo.cs
+C:\Users\PC\source\repos\Sort5_AnketePrint\obj\Debug\netcoreapp2.2\Task5_AnketePrint.dll
+C:\Users\PC\source\repos\Sort5_AnketePrint\obj\Debug\netcoreapp2.2\Task5_AnketePrint.pdb

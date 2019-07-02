@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\IBM\bin\Debug\netcoreapp2.2\Task2_IBM.deps.json
+C:\Users\PC\source\repos\IBM\bin\Debug\netcoreapp2.2\Task2_IBM.runtimeconfig.json
+C:\Users\PC\source\repos\IBM\bin\Debug\netcoreapp2.2\Task2_IBM.runtimeconfig.dev.json
+C:\Users\PC\source\repos\IBM\bin\Debug\netcoreapp2.2\Task2_IBM.dll
+C:\Users\PC\source\repos\IBM\bin\Debug\netcoreapp2.2\Task2_IBM.pdb
+C:\Users\PC\source\repos\IBM\obj\Debug\netcoreapp2.2\Task2_IBM.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\IBM\obj\Debug\netcoreapp2.2\Task2_IBM.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\IBM\obj\Debug\netcoreapp2.2\Task2_IBM.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\IBM\obj\Debug\netcoreapp2.2\Task2_IBM.AssemblyInfo.cs
+C:\Users\PC\source\repos\IBM\obj\Debug\netcoreapp2.2\Task2_IBM.dll
+C:\Users\PC\source\repos\IBM\obj\Debug\netcoreapp2.2\Task2_IBM.pdb

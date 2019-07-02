@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\less1\bin\Debug\netcoreapp2.2\less1.deps.json
+C:\Users\PC\source\repos\less1\bin\Debug\netcoreapp2.2\less1.runtimeconfig.json
+C:\Users\PC\source\repos\less1\bin\Debug\netcoreapp2.2\less1.runtimeconfig.dev.json
+C:\Users\PC\source\repos\less1\bin\Debug\netcoreapp2.2\less1.dll
+C:\Users\PC\source\repos\less1\bin\Debug\netcoreapp2.2\less1.pdb
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\less1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\less1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\less1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\less1.AssemblyInfo.cs
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\less1.dll
+C:\Users\PC\source\repos\less1\obj\Debug\netcoreapp2.2\less1.pdb

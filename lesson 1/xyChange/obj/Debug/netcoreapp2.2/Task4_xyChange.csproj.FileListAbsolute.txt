@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\xyChange\bin\Debug\netcoreapp2.2\Task4_xyChange.deps.json
+C:\Users\PC\source\repos\xyChange\bin\Debug\netcoreapp2.2\Task4_xyChange.runtimeconfig.json
+C:\Users\PC\source\repos\xyChange\bin\Debug\netcoreapp2.2\Task4_xyChange.runtimeconfig.dev.json
+C:\Users\PC\source\repos\xyChange\bin\Debug\netcoreapp2.2\Task4_xyChange.dll
+C:\Users\PC\source\repos\xyChange\bin\Debug\netcoreapp2.2\Task4_xyChange.pdb
+C:\Users\PC\source\repos\xyChange\obj\Debug\netcoreapp2.2\Task4_xyChange.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\xyChange\obj\Debug\netcoreapp2.2\Task4_xyChange.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\xyChange\obj\Debug\netcoreapp2.2\Task4_xyChange.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\xyChange\obj\Debug\netcoreapp2.2\Task4_xyChange.AssemblyInfo.cs
+C:\Users\PC\source\repos\xyChange\obj\Debug\netcoreapp2.2\Task4_xyChange.dll
+C:\Users\PC\source\repos\xyChange\obj\Debug\netcoreapp2.2\Task4_xyChange.pdb

@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\xyMath\bin\Debug\netcoreapp2.2\xyMath_Task3.deps.json
+C:\Users\PC\source\repos\xyMath\bin\Debug\netcoreapp2.2\xyMath_Task3.runtimeconfig.json
+C:\Users\PC\source\repos\xyMath\bin\Debug\netcoreapp2.2\xyMath_Task3.runtimeconfig.dev.json
+C:\Users\PC\source\repos\xyMath\bin\Debug\netcoreapp2.2\xyMath_Task3.dll
+C:\Users\PC\source\repos\xyMath\bin\Debug\netcoreapp2.2\xyMath_Task3.pdb
+C:\Users\PC\source\repos\xyMath\obj\Debug\netcoreapp2.2\xyMath_Task3.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\xyMath\obj\Debug\netcoreapp2.2\xyMath_Task3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\xyMath\obj\Debug\netcoreapp2.2\xyMath_Task3.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\xyMath\obj\Debug\netcoreapp2.2\xyMath_Task3.AssemblyInfo.cs
+C:\Users\PC\source\repos\xyMath\obj\Debug\netcoreapp2.2\xyMath_Task3.dll
+C:\Users\PC\source\repos\xyMath\obj\Debug\netcoreapp2.2\xyMath_Task3.pdb
